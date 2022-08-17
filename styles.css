@@ -372,6 +372,10 @@ iframe {
   width: 100%;
 }
 
+.texto-boton:hover {
+  background-color: #67b54b;
+}
+
 /** dispositivos móviles en vista viewport (vertical) */
 @media (max-width: 575px){
   /* .navbar,

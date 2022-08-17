@@ -46,7 +46,7 @@ Fuentes
 }
 .blog .card-title {
   font-size: 22px;
-  color: gray;
+  color: #4a4a4a;
 }
 .blog .metadata {
   font-size: 16px;
@@ -58,7 +58,7 @@ Fuentes
   color: #4a4a4a;
   font-size: 14px;
 }
-.blog .read-more {
+.blog .card-text .read-more {
   text-decoration: underline;
 }
 .blog .author img {
@@ -71,7 +71,7 @@ Fuentes
   margin-top: 10px;
   font-weight: 500;
   font-size: 12px;
-  font-size: #4a4a4a;
+  color: #4a4a4a;
 }
 
 /*# sourceMappingURL=output.css.map */
